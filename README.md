@@ -1,2 +1,2 @@
-# ReactJS-application---Book-Store
+# ReactJS application-Book-Store
 Ecommerce application 
